@@ -1,0 +1,17 @@
+.button-startnow{
+    color: black;
+    padding: 8px 25px ;
+    font-size: 16px;
+    font-family: 'Varela Round', sans-serif;
+    text-decoration: none;
+    background-color: #ff6600;
+    border-radius: 50px;
+}
+
+.button-startnow:hover{
+    background-color: #e44f14f6;
+}
+
+.button-startnow.-header{
+    margin-left: 20px;
+}
