@@ -7,3 +7,12 @@
     font-size: 15px;
     margin-top: 20px;
 }
+
+.subtitle.-card{
+    color: #575757; 
+    text-align: center;
+    margin: 5px ;
+    font-size: 15px;
+    margin-top: 8px;
+    padding-bottom: 5px;
+}
