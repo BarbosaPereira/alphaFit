@@ -1,11 +1,11 @@
 .button-startnow{
-    color: black;
+    color: #FFF;
     padding: 8px 25px ;
     font-size: 16px;
     font-family: 'Varela Round', sans-serif;
     text-decoration: none;
     background-color: #ff6600;
-    border-radius: 50px;
+    border-radius: 60px;
 }
 
 .button-startnow:hover{
@@ -14,4 +14,10 @@
 
 .button-startnow.-header{
     margin-left: 20px;
+}
+
+.button-startnow.-valores{
+    padding: 12px 85px;
+    font-size: 20px;
+    font-weight: bold;
 }
