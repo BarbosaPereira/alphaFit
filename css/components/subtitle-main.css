@@ -16,3 +16,27 @@
     margin-top: 8px;
     padding-bottom: 5px;
 }
+
+.subtitle.-card-exclusivo{
+    color: #575757; 
+    text-align: center;
+    margin: 5px ;
+    font-size: 15px;
+    margin-top: 8px;
+    padding-bottom: 5px;
+    background-color: #ff6600;
+}
+
+.subtitle.-info-card{
+    margin-top:2px;
+    margin-bottom: 2px;
+    font-size: 15px;
+}
+
+.subtitle.-saiba-mais{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    color:#000;
+    font-weight: bolder;
+    text-decoration: none;
+}

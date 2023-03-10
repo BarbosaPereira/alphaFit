@@ -1,0 +1,59 @@
+.card-exclusivos{
+    margin-left: 20px;
+    margin-top: 45px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 45px;
+   box-shadow: 2px 2px 5px rgb(168, 168, 168);
+   border-radius: 35px;
+}
+
+.card-exclusivos:hover{
+    box-shadow: 2px 2px 5px #ff6600;
+}
+
+.title-card{
+    color: #FFF;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    display: flex;
+    background-color:#ff6600;;
+}
+
+.area-info-card{
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 1px solid gray;
+}
+
+.info-card-1{
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+.info-card-2{
+    align-items: center;
+    margin-left: 40px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.info-text-card-exclusivo{
+    padding-left: 15px;
+    color: grey;
+    display: flex;
+    font-family: "Varela round";
+    font-size: 15px;
+    font-weight: none;
+}

@@ -1,14 +1,21 @@
 .card-experiencia{
-    margin-top: 70px;
+    margin-top: 50px;
     display:flex;
     flex-direction: column;
     justify-content: center;
     border-radius: 35px;
     border: 0 solid #e2e8f0;
-    box-shadow: 2px 2px 10px grey;
+    box-shadow: 2px 2px 5px rgb(168, 168, 168);
+}
+.card-experiencia:not(:first-child){
+    margin-left: 40px;
+}
+.card-experiencia:hover{
+    transform: scale(0.98);
+    box-shadow: 2px 2px 5px #ff6600;
 }
 
-.img-card-experiencias{
+.img-card{
     display: flex;
     border-radius: 35px 35px 0 0;
 }
