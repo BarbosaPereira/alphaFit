@@ -1,10 +1,13 @@
+
 .header{
-    padding: 20px 60px 10px ;
+    width: 100%;
+    padding: 20px 0Px 10px ;
     display: flex;
     justify-content: space-between;
     background-color: #FFF;
     text-decoration: none;
     align-items: center;
+
 }
 
 .icone{
